@@ -17,6 +17,6 @@ Location permission is requested only when you tap **Use Current Location**.
 - v1.0 — Initial App Store release.
 
 ## Support
-Questions or feedback? [Support](support.md)
+Questions or feedback? [Support](Voyage-support.md)
 
-[Home](README.md)
+[Home](Voyage-README.md)

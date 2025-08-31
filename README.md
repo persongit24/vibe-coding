@@ -1,8 +1,3 @@
----
-layout: default
-title: Weekend Planner - Voyage
----
-
 # Weekend Planner - Voyage
 Find the best **parks, gardens, museums, and hidden gems** near you.  
 Build a weekend plan in seconds, share it with friends, and get** instant directions**.

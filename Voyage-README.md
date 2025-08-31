@@ -18,7 +18,7 @@ Build a weekend plan in seconds, share it with friends, and get** instant direct
 </div>
 
 ## Privacy
-We use location **only** to find nearby places you request. [Privacy](privacy.md)
+We use location **only** to find nearby places you request. [Privacy](Voyage-privacy.md)
 
 ## Support
-Questions or feedback? [Support](support.md)
+Questions or feedback? [Support](Voyage-support.md)

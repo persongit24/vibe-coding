@@ -13,8 +13,8 @@ Build a weekend plan in seconds, share it with friends, and get** instant direct
 
 ## Screenshots
 <div style="display:flex;gap:12px;flex-wrap:wrap;">
-  <img src="/assets/img1.png" alt="Itinerary" >
-  <img src="/assets/img2.png" alt="Parks" >
+  <img src="img1.png" alt="Itinerary" >
+  <img src="img2.png" alt="Parks" >
 </div>
 
 ## Privacy

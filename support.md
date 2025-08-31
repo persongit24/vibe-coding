@@ -15,3 +15,8 @@ Location permission is requested only when you tap **Use Current Location**.
 
 ## Release Notes
 - v1.0 — Initial App Store release.
+
+## Support
+Questions or feedback? [Support](support.md)
+
+[Home](README.md)

@@ -1,4 +1,4 @@
-Privacy Policy for Weekend Planner
+Privacy Policy for Weekend Planner - Voyage and Voyage AI
 
 Effective date: Aug 31, 2025
 

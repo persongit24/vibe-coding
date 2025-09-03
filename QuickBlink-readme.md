@@ -9,3 +9,5 @@ Key benefits:
 	•	Two modes for beginners and pros
 	•	Performance tracked — outdo your personal best
 	•	Bright, inviting interface optimized for light themes
+
+App [link](https://apps.apple.com/us/app/quickblink/id6751824955) to download.

@@ -14,4 +14,4 @@ Data Privacy
 QuickBlink stores session history locally only — no user data is ever collected or shared.
 
 Need help or want features?
-Reach us at support@quickblink.app — we love feedback!
+App [link](https://apps.apple.com/us/app/quickblink/id6751824955) to download.

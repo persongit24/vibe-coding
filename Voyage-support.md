@@ -16,7 +16,8 @@ Location permission is requested only when you tap **Use Current Location**.
 ## Release Notes
 - v1.0 — Initial App Store release.
 
+
 ## Support
-Questions or feedback? [Support](mailto:dodgegood2009@gmail.com)
+Feedback & Suggestions: We’d love to hear how we can make Voyage better for you. Send us your ideas via email. [Support](mailto:dodgegood2009@gmail.com)
 
 [Home](Voyage-README.md)
